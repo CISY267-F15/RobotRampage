@@ -1,0 +1,2 @@
+C:\Visual Studio 2012\Projects\RobotRampage\RobotRampage\RobotRampage\obj\x86\Debug\RobotRampage.csprojResolveAssemblyReference.cache
+C:\Visual Studio 2012\Projects\RobotRampage\RobotRampage\RobotRampage\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
